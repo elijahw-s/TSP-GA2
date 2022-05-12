@@ -1,1 +1,2 @@
 # TSP-GA2
+Yeah so this one doesn't compile either, It is throwing a type error that I'm not exactly sure how to fix. It's been a tough couple of weeks so I, instead of crying in pain for hours over this one bug, have decided to turn in my implementations for the algorithms. I'm pretty confident in my algorithms, i.e. I think that it is just(?) this big (I say this hesitantly bit I don't think there is anything else that is very major).
